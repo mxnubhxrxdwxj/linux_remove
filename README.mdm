@@ -1,0 +1,11 @@
+# linux_remove
+rm stands for remove
+///////////////////////////////////////////////////////
+#if folder is empty
+rmdir folder_name
+/////////////////////////////////////////////////////////
+#if files are there inside the folder
+rm -r folder_name
+//////////////////////////////////////////////////////////
+# if we want to tranfer someone's folder file in another folder
+mr folder_name/filename anohter_folder_name
